@@ -75,7 +75,7 @@ All experiments are performed on RWTH-PHOENIX-Weather-2014 (Multisigner).
 The image/video features are extracted with C3D.
 We have released the C3D features.
 Please download the features with the following link:
-- C3D Feature [[Google Drive](https://drive.google.com/file/d/1y_xaNCjMJdLzE4PQCdTt3Ff4vt2FGy_R/view?usp=sharing)] [[Baidu Drive](https://pan.baidu.com/s/1lNxPADvUyJ2jg-r5JBZtEw) (pwd: 5w9f)] [[Rec](https://rec.ustc.edu.cn/share/0032cb50-b229-11ea-9a10-7bcdbb495df0)]
+- C3D Feature [[Google Drive](https://drive.google.com/file/d/1y_xaNCjMJdLzE4PQCdTt3Ff4vt2FGy_R/view?usp=sharing)] [[Baidu Drive](https://pan.baidu.com/s/1lNxPADvUyJ2jg-r5JBZtEw) (pwd: 5w9f)]
 
 Extract features via
 ```bash
@@ -136,7 +136,7 @@ Configure your own settings by modify the parameters if necessary.
 
 ### Test
 Download the pretrained model weights with the following link:
-- Model Weights [[Google Drive](https://drive.google.com/file/d/1f4G5pAxTngTJgGUnNCp-_J7iZ8gdcdai/view?usp=sharing)] [[Baidu Drive](https://pan.baidu.com/s/1xx3Qao5AFLizydKzp7-uRQ) (pwd: guh3)] [[Rec](https://rec.ustc.edu.cn/share/6ba26a00-b227-11ea-8e8d-052ba027f9bc)]
+- Model Weights [[Google Drive](https://drive.google.com/file/d/1f4G5pAxTngTJgGUnNCp-_J7iZ8gdcdai/view?usp=sharing)] [[Baidu Drive](https://pan.baidu.com/s/1xx3Qao5AFLizydKzp7-uRQ) (pwd: guh3)]
 
 Evaluates the model on RWTH-PHOENIX-Weather-2014 development set (Dev) and testing set (Test),
 ```bash
